@@ -1,0 +1,12 @@
+User Login/Logout Report - November 2026
+Generated on: Fri 20 Nov 2026 15:31:40 GMT
+----------------------------------------
+vaibhav  tty2         tty2             Fri Nov 20 14:47:00 2026   still logged in
+reboot   system boot  6.8.0-149-generic Fri Nov 20 14:45:55 2026   still running
+divya    tty2         tty2             Tue Nov 17 20:00:20 2026 - crash                    (2+18:45)
+reboot   system boot  6.8.0-149-generic Tue Nov 17 20:00:12 2026   still running
+divya    tty3                          Tue Nov 17 19:55:28 2026 - Tue Nov 17 19:55:32 2026  (00:00)
+vaibhav  tty3                          Tue Nov 17 19:55:12 2026 - Tue Nov 17 19:55:22 2026  (00:00)
+vaibhav  tty2         tty2             Tue Nov 17 19:45:40 2026 - crash                     (00:14)
+reboot   system boot  6.8.0-149-generic Tue Nov 17 19:45:22 2026   still running
+
